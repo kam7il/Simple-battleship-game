@@ -1,0 +1,6 @@
+Janusz;qwerty;
+Tomek;12345;
+Krzychu;123456;
+Tomcio;Paluch;
+Kamil;zaqwsx;
+Kuba;Buba;
